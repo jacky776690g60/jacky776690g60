@@ -1,26 +1,5 @@
-## 👋 Hello! I'm Jack!
-I have a multifaceted background in full-stack development, automation, database management, and design. My blend of technical prowess and creative vision has led me to a diverse range of projects, from game development to intricate database architectures.
+# 👋 Hello! I'm Jack!
 
-💻 I specialize in software engineering, working with languages like JavaScript, TypeScript, Java, Python, and C#, and frameworks such as React, Spring Boot, and Next.js. I focus on user-centric solutions, whether fine-tuning conversational AI at SALT Lab or enhancing augmented reality experiences at AGCO Corporation.
-
-🎨 I hold a Bachelor's degree in Interaction Design and have experience with tools like Adobe XD, Photoshop, and Unity. I take pride in my keen eye for design and enjoy crafting engaging and interactive digital experiences grounded in solid UI/UX principles.
-
-📈 I extend my skill set to database and data science, proficient in MongoDB, MySQL, NoSQL, PyTorch, and more. I've successfully designed and managed complex database systems, reflecting my ability to handle intricate technical challenges.
-
-🌟 Driven by lifelong learning, I'm always eager to tackle new challenges. If you're seeking a versatile professional with a unique combination of development, design, and data expertise, let's connect and explore collaboration opportunities!
+I automate all kinds of stuff 🤖 and blend technologies 👨‍💻 to craft useful tools 🔧. Whether it's coding with JavaScript or designing in Unity, I turn complex challenges into innovative solutions. Let's create something awesome together! 🚀
 
 #SoftwareEngineer #FullstackDeveloper #UIUXDesign #GameDevelopment #DatabaseManagement #Animation
-<!--
-**jacky776690g60/jacky776690g60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
